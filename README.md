@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 ## Acknowledgements
-
+---
 I would like to sincerely thank [Baraa], creator of the YouTube channel [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
 , whose tutorials and insights greatly inspired and guided the development of this project.
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
